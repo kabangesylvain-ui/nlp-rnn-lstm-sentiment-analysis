@@ -1,0 +1,42 @@
+
+---
+
+## 📄 `requirements.txt`
+
+```txt
+# Version: 1.0
+# Projet NLP - RNN vs LSTM
+# Date: 12 Juin 2026
+
+# === Core ===
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# === Data & Dataset ===
+datasets>=2.12.0
+huggingface-hub>=0.16.0
+
+# === NLP & Preprocessing ===
+nltk>=3.8.0
+regex>=2023.0.0
+
+# === Visualization ===
+matplotlib>=3.7.0
+seaborn>=0.12.0
+wordcloud>=1.9.0
+
+# === Streamlit App ===
+streamlit>=1.25.0
+plotly>=5.14.0
+
+# === Machine Learning ===
+scikit-learn>=1.3.0
+
+# === Advanced Features ===
+langdetect>=1.0.9
+scipy>=1.10.0
+
+# === Utilities ===
+tqdm>=4.65.0
